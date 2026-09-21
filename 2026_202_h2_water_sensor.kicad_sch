@@ -1,0 +1,91 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4719dcda-7944-485a-87da-bd7369799473")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 62.23 64.77)
+		(size 41.91 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "72f99dff-0c2e-4924-ba64-f193f4e09b4e")
+		(property "Sheetname" "ESP32-H2"
+			(at 62.23 64.0584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32-H2.kicad_sch"
+			(at 62.23 90.7546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ESP_BUS" input
+			(at 104.14 85.09 0)
+			(uuid "92c0789e-6b31-499e-bdad-ecacd188f936")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D+" output
+			(at 62.23 76.2 180)
+			(uuid "844d47d6-401f-4ab9-b220-37fc6d621f0f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" output
+			(at 62.23 78.74 180)
+			(uuid "161aaf25-782a-427a-92c4-711a19a6c2f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "2026_202_h2_water_sensor"
+				(path "/4719dcda-7944-485a-87da-bd7369799473"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
