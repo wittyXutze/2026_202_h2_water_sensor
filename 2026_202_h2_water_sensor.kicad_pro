@@ -620,7 +620,29 @@
       "sort_asc": true,
       "sort_field": "Referenz"
     },
-    "bus_aliases": {},
+    "bus_aliases": {
+      "H2_bus": [
+        "IO0",
+        "IO1",
+        "IO2",
+        "IO3",
+        "IO4",
+        "IO5",
+        "IO8",
+        "IO9",
+        "IO10",
+        "IO11",
+        "IO12",
+        "IO13",
+        "IO14",
+        "IO22",
+        "IO23",
+        "IO24",
+        "IO25",
+        "IO26",
+        "IO27"
+      ]
+    },
     "connection_grid_size": 50.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
@@ -661,7 +683,7 @@
         "uuid": "4719dcda-7944-485a-87da-bd7369799473"
       }
     ],
-    "used_designators": "#PWR20,U1",
+    "used_designators": "U1-3,#PWR1-13,#PWR20,C1-8,R1-11,S1-5,#FLG1-2,J1-2",
     "variants": []
   },
   "sheets": [
@@ -670,8 +692,8 @@
       "Stammblatt"
     ],
     [
-      "72f99dff-0c2e-4924-ba64-f193f4e09b4e",
-      "ESP32-H2"
+      "dead530d-42f1-4e42-ac87-d98d2eb82019",
+      "ESP32-H2-MINI-1-N4"
     ]
   ],
   "text_variables": {},
