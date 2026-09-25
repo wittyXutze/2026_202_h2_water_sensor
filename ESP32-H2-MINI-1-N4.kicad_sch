@@ -1650,7 +1650,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Capacitors:0603,100nF"
+		(symbol "JLCPCB_Capacitors:0603,100nF"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1706,7 +1706,7 @@
 					)
 				)
 			)
-			(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(property "Description" "100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1728,7 +1728,7 @@
 					)
 				)
 			)
-			(property "Stock" "70324515"
+			(property "Stock" "37493696"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1948,7 +1948,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Capacitors:0603,4.7uF"
+		(symbol "JLCPCB_Capacitors:0603,4.7uF"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2026,7 +2026,7 @@
 					)
 				)
 			)
-			(property "Stock" "4246728"
+			(property "Stock" "5643370"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2246,7 +2246,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Resistors:0603,0Ω"
+		(symbol "JLCPCB_Resistors:0603,0Ω"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2301,7 +2301,7 @@
 					)
 				)
 			)
-			(property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS"
+			(property "Description" "-55°C~+155°C 0Ω 100mW 75V Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount ROHS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2323,7 +2323,7 @@
 					)
 				)
 			)
-			(property "Stock" "7706573"
+			(property "Stock" "13902554"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2334,7 +2334,7 @@
 					)
 				)
 			)
-			(property "Price" "0.004USD"
+			(property "Price" "0.005USD"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2552,7 +2552,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Resistors:0603,10kΩ"
+		(symbol "JLCPCB_Resistors:0603,10kΩ"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2607,7 +2607,7 @@
 					)
 				)
 			)
-			(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
+			(property "Description" "-55°C~+155°C 100mW 10kΩ 75V Thick Film Resistor ±1% ±100ppm/°C 0603 Chip Resistor - Surface Mount ROHS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2629,7 +2629,7 @@
 					)
 				)
 			)
-			(property "Stock" "51181774"
+			(property "Stock" "22319909"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2640,7 +2640,7 @@
 					)
 				)
 			)
-			(property "Price" "0.004USD"
+			(property "Price" "0.005USD"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2869,7 +2869,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Resistors:0603,10Ω"
+		(symbol "JLCPCB_Resistors:0603,10Ω"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2924,7 +2924,7 @@
 					)
 				)
 			)
-			(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/°C 10Ω 0603 Chip Resistor - Surface Mount ROHS"
+			(property "Description" "-55°C~+155°C 100mW 10Ω 75V Thick Film Resistor ±1% ±400ppm/°C 0603 Chip Resistor - Surface Mount ROHS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2946,7 +2946,7 @@
 					)
 				)
 			)
-			(property "Stock" "5764851"
+			(property "Stock" "2613887"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2957,7 +2957,7 @@
 					)
 				)
 			)
-			(property "Price" "0.004USD"
+			(property "Price" "0.005USD"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4794,7 +4794,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0603,0Ω")
+		(lib_id "JLCPCB_Resistors:0603,0Ω")
 		(at 58.42 30.48 90)
 		(unit 1)
 		(body_style 1)
@@ -4847,7 +4847,7 @@
 				)
 			)
 		)
-		(property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55°C~+155°C 0Ω 100mW 75V Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount ROHS"
 			(at 58.42 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -4869,7 +4869,7 @@
 				)
 			)
 		)
-		(property "Stock" "7706573"
+		(property "Stock" "13902554"
 			(at 58.42 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -4880,7 +4880,7 @@
 				)
 			)
 		)
-		(property "Price" "0.004USD"
+		(property "Price" "0.005USD"
 			(at 58.42 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -5050,7 +5050,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")
+		(lib_id "JLCPCB_Capacitors:0603,100nF")
 		(at 132.08 158.75 0)
 		(unit 1)
 		(body_style 1)
@@ -5105,7 +5105,7 @@
 				)
 			)
 		)
-		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+		(property "Description" "100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 132.08 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -5127,7 +5127,7 @@
 				)
 			)
 		)
-		(property "Stock" "70324515"
+		(property "Stock" "37493696"
 			(at 132.08 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -5293,7 +5293,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0603,10kΩ")
+		(lib_id "JLCPCB_Resistors:0603,10kΩ")
 		(at 132.08 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -5346,7 +5346,7 @@
 				)
 			)
 		)
-		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55°C~+155°C 100mW 10kΩ 75V Thick Film Resistor ±1% ±100ppm/°C 0603 Chip Resistor - Surface Mount ROHS"
 			(at 132.08 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5368,7 +5368,7 @@
 				)
 			)
 		)
-		(property "Stock" "51181774"
+		(property "Stock" "22319909"
 			(at 132.08 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5379,7 +5379,7 @@
 				)
 			)
 		)
-		(property "Price" "0.004USD"
+		(property "Price" "0.005USD"
 			(at 132.08 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5566,7 +5566,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Capacitors:0603,4.7uF")
+		(lib_id "JLCPCB_Capacitors:0603,4.7uF")
 		(at 76.2 38.1 0)
 		(unit 1)
 		(body_style 1)
@@ -5643,7 +5643,7 @@
 				)
 			)
 		)
-		(property "Stock" "4246728"
+		(property "Stock" "5643370"
 			(at 76.2 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -5809,7 +5809,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")
+		(lib_id "JLCPCB_Capacitors:0603,100nF")
 		(at 132.08 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -5864,7 +5864,7 @@
 				)
 			)
 		)
-		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+		(property "Description" "100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 132.08 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5886,7 +5886,7 @@
 				)
 			)
 		)
-		(property "Stock" "70324515"
+		(property "Stock" "37493696"
 			(at 132.08 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6052,7 +6052,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0603,10kΩ")
+		(lib_id "JLCPCB_Resistors:0603,10kΩ")
 		(at 124.46 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -6105,7 +6105,7 @@
 				)
 			)
 		)
-		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55°C~+155°C 100mW 10kΩ 75V Thick Film Resistor ±1% ±100ppm/°C 0603 Chip Resistor - Surface Mount ROHS"
 			(at 124.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6127,7 +6127,7 @@
 				)
 			)
 		)
-		(property "Stock" "51181774"
+		(property "Stock" "22319909"
 			(at 124.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6138,7 +6138,7 @@
 				)
 			)
 		)
-		(property "Price" "0.004USD"
+		(property "Price" "0.005USD"
 			(at 124.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6560,7 +6560,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0603,10Ω")
+		(lib_id "JLCPCB_Resistors:0603,10Ω")
 		(at 40.64 92.71 90)
 		(unit 1)
 		(body_style 1)
@@ -6612,7 +6612,7 @@
 				)
 			)
 		)
-		(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/°C 10Ω 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55°C~+155°C 100mW 10Ω 75V Thick Film Resistor ±1% ±400ppm/°C 0603 Chip Resistor - Surface Mount ROHS"
 			(at 40.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6634,7 +6634,7 @@
 				)
 			)
 		)
-		(property "Stock" "5764851"
+		(property "Stock" "2613887"
 			(at 40.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6645,7 +6645,7 @@
 				)
 			)
 		)
-		(property "Price" "0.004USD"
+		(property "Price" "0.005USD"
 			(at 40.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7514,7 +7514,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:0603,10Ω")
+		(lib_id "JLCPCB_Resistors:0603,10Ω")
 		(at 40.64 87.63 90)
 		(unit 1)
 		(body_style 1)
@@ -7566,7 +7566,7 @@
 				)
 			)
 		)
-		(property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm/°C 10Ω 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55°C~+155°C 100mW 10Ω 75V Thick Film Resistor ±1% ±400ppm/°C 0603 Chip Resistor - Surface Mount ROHS"
 			(at 40.64 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7588,7 +7588,7 @@
 				)
 			)
 		)
-		(property "Stock" "5764851"
+		(property "Stock" "2613887"
 			(at 40.64 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7599,7 +7599,7 @@
 				)
 			)
 		)
-		(property "Price" "0.004USD"
+		(property "Price" "0.005USD"
 			(at 40.64 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7869,7 +7869,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")
+		(lib_id "JLCPCB_Capacitors:0603,100nF")
 		(at 83.82 38.1 0)
 		(unit 1)
 		(body_style 1)
@@ -7924,7 +7924,7 @@
 				)
 			)
 		)
-		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+		(property "Description" "100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 83.82 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7946,7 +7946,7 @@
 				)
 			)
 		)
-		(property "Stock" "70324515"
+		(property "Stock" "37493696"
 			(at 83.82 38.1 0)
 			(hide yes)
 			(show_name no)
